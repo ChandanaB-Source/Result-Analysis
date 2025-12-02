@@ -407,7 +407,7 @@ MIT License
 
 ## Author
 
-- [Tarun S Maidur](https://github.com/rock-02)
+- [Chandana M Birannanavar](https://github.com/rock-02)
 
 ---
 
