@@ -57,7 +57,7 @@ A robust full-stack web application for academic result management and analysis,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rock-02/ResultAnalysis.git
+   git clone https://github.com/ChandanaB-Source/Result-Analysis.git
    cd ResultAnalysis
    ```
 
